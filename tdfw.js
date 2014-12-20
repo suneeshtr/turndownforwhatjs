@@ -223,7 +223,7 @@
 		}
 		window.tdfw________TDFW = true;
 
-		embedVideo()
+		// embedVideo()
 		setupAnimations()
 	}
 	init()
